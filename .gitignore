@@ -1,0 +1,22 @@
+# Build artifacts (Gradle / Maven / 通用)
+build/
+bin/
+out/
+target/
+.gradle/
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS / misc
+.DS_Store
+Thumbs.db
+*.log
